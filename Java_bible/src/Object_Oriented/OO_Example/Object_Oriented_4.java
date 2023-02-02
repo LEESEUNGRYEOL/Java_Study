@@ -1,4 +1,4 @@
-package Object_Oriented;
+package Object_Oriented.OO_Example;
 // Ex 04) 변수의 종류
 
 

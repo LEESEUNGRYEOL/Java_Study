@@ -1,4 +1,4 @@
-package Object_Oriented;
+package Object_Oriented.OO_Example;
 
 // Ex3) 클래스의 정의
 

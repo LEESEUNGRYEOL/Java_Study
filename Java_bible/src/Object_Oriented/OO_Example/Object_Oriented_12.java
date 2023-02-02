@@ -1,4 +1,4 @@
-package Object_Oriented;
+package Object_Oriented.OO_Example;
 // Ex 12) 상속
 
 // 01) 자손은 조상의 모든 멤버를 상속받는 예제

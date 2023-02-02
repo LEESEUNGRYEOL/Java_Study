@@ -1,4 +1,4 @@
-package Practice;
+package a.Practice;
 
 import java.util.HashSet;
 import java.util.List;

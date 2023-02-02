@@ -1,4 +1,4 @@
-package Object_Oriented;
+package Object_Oriented.OO_Example;
 
 // Ex07) static 메서드와 instance 메서드
 

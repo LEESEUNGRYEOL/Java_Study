@@ -1,4 +1,4 @@
-package Object_Oriented;
+package Object_Oriented.OO_Example;
 
 // ** EX 01) 객체의 생성
 // 1. 객체의 역할에는 속성(변수), 기능(메소드) 가 있다.

@@ -1,4 +1,4 @@
-package Object_Oriented;
+package Object_Oriented.OO_Example;
 // Ex10) 참조변수 this 와 생성자 this()
 
 

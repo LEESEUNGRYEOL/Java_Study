@@ -1,4 +1,4 @@
-package Object_Oriented;
+package Object_Oriented.OO_Example;
 // ** EX 02) 객체 배열의 생성
 
 class Tv1_2 {

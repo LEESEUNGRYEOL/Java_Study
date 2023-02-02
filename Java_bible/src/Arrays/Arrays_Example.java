@@ -1,9 +1,9 @@
-package Array;
+package Arrays;
 
 import java.util.Arrays;
 
 // 배열과 관련된 예제이다.
-public class Array_1 {
+public class Arrays_Example {
 
     public static void main(String[] args) {
 

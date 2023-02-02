@@ -1,4 +1,4 @@
-package Object_Oriented;
+package Object_Oriented.OO_Example;
 // Ex06) 기본형 매개변수와 참조형 매개변수
 
 // 01) 기본형 매개변수
